@@ -1,6 +1,8 @@
 package com.kodonho.lotto;
 
 public class LottoMain {
+	
+	// 2018-03-13 주석을 추가했습니다
 
 	public static void main(String[] args) {
 		
